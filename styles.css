@@ -1,0 +1,207 @@
+body{
+    background-color: rgb(14, 122, 14);
+    color: beige;
+}
+.total-box{
+    max-width: 100%;
+    max-height: auto;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white;
+    border-radius: 5px;
+
+}
+.img_box--Oun{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+
+    border-radius: 6px;
+    width: 300px;
+    height: auto;
+}
+.img_box--Oun-Link{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+padding-top: 15px;
+padding-bottom: 15px;
+
+    width: 300px;
+    background-color: blueviolet;
+
+    border-radius: 5px;
+
+}
+.link-box{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    /* width: 150px; */
+    width: 40%;
+    margin-top: 15px;
+    padding-left: 48%;
+    /* padding-top: 5px; */
+    padding-bottom: 15px;
+    /* border: 1px solid white; */
+}
+.img-Oun{
+    width: 300px;
+    height: auto;
+    margin-bottom: 5px;
+border: 1px solid blueviolet;
+border-radius: 5px;
+
+}
+.mater-link--three{
+margin: 5px;
+/* padding: 5px; */
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 40px;
+padding-right: 40px;
+
+font-size: 14px;
+font-family: sans-serif;
+text-transform: uppercase;
+letter-spacing: 1.5px;
+/* background-color:rgb(37, 120, 245); */
+background-color: blueviolet;
+opacity: 0.5;
+color:yellow;
+border-radius: 5px;
+border: 1px solid yellow;
+
+}
+.Master_link--Oun{
+    /* text-decoration: none; */
+    padding-top: 5px;
+    color:white;
+    font-size: 25px;
+    font-weight: 500;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    
+}
+
+.Master_link--Two{
+    font-size: 40px;
+    font-weight: 700;
+    padding: 10px;
+   margin-top: 5px;
+    color:yellow;
+    text-decoration: none;
+}
+.Master_link--Chree{
+    background-color: gray;    
+    
+    color:whitesmoke;
+    text-decoration: none;
+    padding: 15px;
+    
+    /* border: 1px solid white; */
+    border-radius: 5px;
+    font-family:sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 2px;
+
+
+}
+.Master_link--five{
+    text-decoration: none;
+    color:yellow;
+    text-shadow: 1px black;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    font-size: 12px;
+    font-style:italic;
+    text-transform: uppercase;
+
+
+}
+.link-info{
+    color:orange;
+}
+.master-title{
+    
+    color:beige;
+    font-size: 12px;
+    font-family:sans-serif;
+    line-height: 1.2;
+    letter-spacing:1px;
+
+
+    
+}
+.master-title-Two{
+    color:white;
+    font-size: 14px;
+    font-family:sans-serif;
+
+    
+}
+.container{
+padding: 5px;
+max-width: 300px;
+border: 1px solid blueviolet;
+border-radius: 5px;
+
+}
+.container-title{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+
+}
+.list{
+    list-style: number;
+
+}
+.list-item{
+    color:white;
+    font-family: sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+
+
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.subjectAdmin{
+    color: yellow;
+    font-size: 18px;
+}
+.subjectPerformer{
+    color: rgb(43, 226, 171);
+    font-size: 18px;
+}
+.subjectUser{
+    color: rgb(13, 200, 233);
+    font-size: 18px;
+}
+.resurs{
+color:orange;
+font-size: 18px;
+
+
+}
+.link-info--list{
+    padding-bottom: 20px;
+}
+.critical--thinking{
+
+border: 1px solid orange;
+}
